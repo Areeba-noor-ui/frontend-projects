@@ -1,0 +1,31 @@
+*{
+    background-color: black;
+    color:azure;
+}
+h3{
+    font-size: 35px;
+}
+.msg  {
+    font-size: 20px;
+}
+.icons{
+    font-size:150px;
+    border-radius: 50%;
+    border-style: double;
+    border-color: azure;
+    cursor:pointer;
+}
+.resetScore{
+    background-color:rgb(248, 225, 19);
+    color:black;
+    font-weight:bold;
+    padding:12px;
+    border-radius: 30px;
+    border:none;
+    margin-left: 300px;
+    font-size:15px;
+
+}
+.result{
+    font-size:20px;
+}
